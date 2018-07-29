@@ -1,0 +1,9 @@
+body {
+    background-image: url("/Users/kylekrupp/Documents/Code/giphy-app/assets/images/background.jpg");
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
